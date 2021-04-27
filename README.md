@@ -26,4 +26,4 @@ As a personal project, I am also developing a website to help people on the musi
     ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)
 
 ### 🌱 I’m currently learning:
-![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)
+![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
