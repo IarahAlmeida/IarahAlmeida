@@ -12,12 +12,16 @@ As a personal project, I am also developing a website to help people on the musi
 
 ### 🛠  My development stack:
 - Application and Data
+
     ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg) ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg)  ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
 - DevOps
+
     ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 - Utilities
+
     ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 - Business Tools
+
     ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)
 
 ### 🌱 I’m currently learning:
