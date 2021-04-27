@@ -4,7 +4,7 @@ I'm Iarah, a Computer Science graduation student and excited to start job-huntin
 Feel free to poke around my repositories and reach out if you'd like!
 
 ### 📫 How to reach me:
-[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/iarahalmeida/) [![Mail](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)](mailto:iarahgda@gmail.com)
+[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/iarahalmeida/) [![Mail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:iarahgda@gmail.com)
 
 ### 🔭 I’m currently working on:
 [Embraer](https://www.embraer.com) as a Product Development intern.
