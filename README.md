@@ -1,6 +1,6 @@
 # Welcome to my Github 👋
 
-I'm Iarah, a Computer Science graduation student and excited to start job-hunting!
+I'm Iarah, a passionate software developer. I graduated in Computer Science and am excited to apply my knowledge!
 Feel free to poke around my repositories and reach out if you'd like!
 
 ### 📫 How to reach me:
