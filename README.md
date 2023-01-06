@@ -1,19 +1,21 @@
 # Welcome to my Github 👋
 
-I'm Iarah, a passionate software developer. I graduated in Computer Science and am excited to apply my knowledge!
+I'm Iarah, a passionate software developer with 3+ years of experience, having a Bachelor’s in Computer Science from the Federal Institute of the North of Minas Gerais.  I am also constantly seeking to improve my skills and expand my knowledge in the field, being skilled in a variety of programming languages and frameworks while specializing in backend development.
+
 Feel free to poke around my repositories and reach out if you'd like!
 
 ### 📫 How to reach me:
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/iarahalmeida/) [![Mail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:iarahgda@gmail.com)
 
 ### 🔭 I’m currently working on:
-[Embraer](https://www.embraer.com) as a Product Development intern.
-As a personal project, I am also developing a website to help people on the music instrument learning process!
+[Nelogica](https://www.nelogica.com.br) as a Backend Software Developer.
 
-### 🛠  My development stack:
+As a personal project, I am developing indie games for the [PlayerFirstGames](https://github.com/PlayerFirstGames) and I am also developing a website to help people on the music instrument learning process!
+
+### 🛠  My prefered development stack:
 - Application and Data
 
-    ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg) ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg)
+<img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="50"> <img src="https://static.cdnlogo.com/logos/d/95/dotnet.svg" height="50"> <img src="https://static.cdnlogo.com/logos/a/12/azure.svg" height="50"> <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" height="50"> <img src="https://static.cdnlogo.com/logos/r/63/react.svg" height="50"> <img src="https://static.cdnlogo.com/logos/h/84/html.svg" height="50"> <img src="https://static.cdnlogo.com/logos/c/18/css.svg" height="50">
     
 - DevOps
 
@@ -26,4 +28,4 @@ As a personal project, I am also developing a website to help people on the musi
     ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)
 
 ### 🌱 I’m currently learning:
-![Power BI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg) ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
