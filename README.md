@@ -1,6 +1,6 @@
 # Welcome to my Github 👋
 
-I'm Iarah, a passionate software developer with 3+ years of experience, having a Bachelor’s in Computer Science from the Federal Institute of the North of Minas Gerais.  I am also constantly seeking to improve my skills and expand my knowledge in the field, being skilled in a variety of programming languages and frameworks while specializing in backend development.
+I'm Iarah, a passionate software developer with 3+ years of experience, holding a Bachelor’s in Computer Science from the Federal Institute of the North of Minas Gerais.  I am also constantly seeking to improve my skills and expand my knowledge in the field, being skilled in a variety of programming languages and frameworks while specializing in backend development.
 
 Feel free to poke around my repositories and reach out if you'd like!
 
