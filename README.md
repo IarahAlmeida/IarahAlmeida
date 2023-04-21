@@ -8,9 +8,9 @@ Feel free to poke around my repositories and reach out if you'd like!
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/iarahalmeida/) [![Mail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:iarahgda@gmail.com)
 
 ### 🔭 I’m currently working on:
-[Nelogica](https://www.nelogica.com.br) as a Backend Software Developer.
+[Allari](https://allari.com/) as a Software Engineer.
 
-As a personal project, I am developing indie games for the [PlayerFirstGames](https://github.com/PlayerFirstGames) and I am also developing a website to help people on the music instrument learning process!
+As a personal project, I am developing a website to help people on the music instrument learning process!
 
 ### 🛠  My prefered development stack:
 - Application and Data
